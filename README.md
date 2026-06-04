@@ -1,5 +1,5 @@
 # PracticumGuide
-#Picture
+## Picture
 <img width="1080" height="2400" alt="Screenshot_20260605_013822" src="https://github.com/user-attachments/assets/1d500849-3a61-40a7-aaee-957508f2d0e4" />
 
 <img width="1080" height="2400" alt="Screenshot_20260605_013844" src="https://github.com/user-attachments/assets/ed91a054-2e38-436c-bff4-ecf9a037c2cd" />
